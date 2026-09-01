@@ -1,7 +1,8 @@
 # CMPE255-Assignment1-Part 1
 
 Medium article: https://medium.com/@m.chau2021/predicting-house-prices-with-machine-learning-what-i-learned-from-the-process-6cbc4ad3dde5?sharedUserId=m.chau2021
-Video:
+
+Video: 
 
 ## Project overview
 
