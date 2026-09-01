@@ -1,4 +1,8 @@
 # CMPE255-Assignment1-Part 1
+
+Medium article:
+Video:
+
 ## Project overview
 
 This repository contains a complete, professional, end-to-end data science workflow for house-price prediction using the **CRISP-DM** methodology and scikit-learn. The project begins with raw housing transaction data and progresses through business understanding, exploratory analysis, cleaning, leakage control, preprocessing, feature engineering, outlier analysis, feature selection, clustering, regression benchmarking, final locked-holdout evaluation, and production deployment.
