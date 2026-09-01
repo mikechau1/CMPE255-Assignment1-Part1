@@ -1,0 +1,4 @@
+cluster_id,n,share,median_sqft_living,median_sqft_lot,median_bedrooms,median_bathrooms,median_floors,median_property_age,basement_rate,median_basement_share,median_condition,waterfront_rate,cluster_name
+0,1016,0.2831661092530658,1260.0,8000.0,3.0,1.5,1.0,59.0,0.03346456692913386,0.0,3.0,0.004921259842519685,Compact older non-basement
+1,1151,0.32079152731326643,2060.0,7798.0,4.0,2.0,1.0,54.0,0.9956559513466551,0.358974358974359,4.0,0.007819287576020852,Older basement-oriented
+2,1421,0.3960423634336678,2437.0,7201.0,4.0,2.5,2.0,14.0,0.20056298381421533,0.0,3.0,0.007037297677691766,Newer larger multi-story

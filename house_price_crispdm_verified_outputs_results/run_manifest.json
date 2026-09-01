@@ -1,0 +1,22 @@
+{
+  "data_path": "/mnt/data/House Price.csv",
+  "data_sha256": "6b0c407d819a0d41b28eaaf2a5f64d874832d2e2312dd5f9c737a139fd331aaa",
+  "random_state": 42,
+  "fast_mode": true,
+  "development_rows": 3588,
+  "holdout_rows": 963,
+  "positive_labeled_rows_for_production_refit": 4551,
+  "frozen_primary_model": "huber_log_both_9",
+  "selected_groups": [
+    "age",
+    "basement",
+    "condition",
+    "living_area",
+    "location",
+    "lot_and_land_intensity",
+    "room_layout",
+    "view",
+    "waterfront"
+  ],
+  "model_serialization": "cloudpickle"
+}

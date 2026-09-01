@@ -1,0 +1,8 @@
+{
+  "training_rows": 4551,
+  "selected_feature_count": 126,
+  "model_path": "/mnt/data/house_price_crispdm_verified_outputs/models/house_price_huber_service.pkl",
+  "serialization": "cloudpickle for fresh-process portability",
+  "historical_scope": "Washington residential transactions, May-July 2014",
+  "live_use_warning": "Retrain on recent representative transactions before current-market deployment."
+}

@@ -1,0 +1,2 @@
+predicted_price,structural_segment,novelty_isolation_forest,novelty_robust_distance,novelty_union,novelty_consensus,unseen_city,unseen_zip,data_quality_flag,predicted_luxury_flag,predicted_extreme_luxury_flag,review_reasons,manual_review_required
+364636.2055705487,Newer larger multi-story,False,False,False,False,False,False,False,False,False,,False

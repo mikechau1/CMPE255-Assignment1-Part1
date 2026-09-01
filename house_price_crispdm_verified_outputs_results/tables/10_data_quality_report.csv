@@ -1,0 +1,10 @@
+issue,development_count,holdout_feature_count,quarantine_count,available_total_count
+date_parse_invalid,0,0,0,0
+target_nonpositive_or_missing,0,0,49,49
+bedrooms_invalid,2,0,0,2
+bathrooms_invalid,2,0,0,2
+floors_invalid,0,0,0,0
+renovation_year_invalid,156,37,2,195
+statezip_parse_invalid,0,0,0,0
+area_identity_invalid,0,0,0,0
+price_per_sqft_identity_invalid,0,0,0,0

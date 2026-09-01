@@ -1,0 +1,13 @@
+feature_group,selected_primary_9,role
+age,True,primary predictor group
+basement,True,primary predictor group
+condition,True,primary predictor group
+data_quality,False,full-model sensitivity group
+floors,False,full-model sensitivity group
+living_area,True,primary predictor group
+location,True,primary predictor group
+lot_and_land_intensity,True,primary predictor group
+renovation,False,full-model sensitivity group
+room_layout,True,primary predictor group
+view,True,primary predictor group
+waterfront,True,primary predictor group

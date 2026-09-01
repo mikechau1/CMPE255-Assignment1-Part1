@@ -1,0 +1,10 @@
+variable,tukey_1_5_flags,tukey_3_0_flags,mad_3_5_flags,tukey_1_5_lower,tukey_1_5_upper
+price_raw,188,68,141,-160000.0,1136000.0
+price_log1p,62,3,10,11.659545549073744,14.41983935908723
+sqft_living_raw,102,14,45,-260.0,4300.0
+sqft_living_log1p,20,0,6,6.410321861367304,8.729485572078993
+sqft_lot_raw,430,315,386,-3766.0,19610.0
+sqft_lot_log1p,425,67,142,7.356294099591361,10.452558291131476
+bedrooms,88,2,1,1.5,5.5
+bathrooms,99,13,13,0.625,3.625
+property_age,0,0,0,-52.0,132.0

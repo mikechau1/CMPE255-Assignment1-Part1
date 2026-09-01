@@ -1,0 +1,30 @@
+{
+  "frozen_before_holdout_evaluation": true,
+  "primary_model": "huber_log_both_9",
+  "selected_groups": [
+    "age",
+    "basement",
+    "condition",
+    "living_area",
+    "location",
+    "lot_and_land_intensity",
+    "room_layout",
+    "view",
+    "waterfront"
+  ],
+  "huber_parameters": {
+    "epsilon": 1.35,
+    "alpha": 0.0001,
+    "max_iter": 2000,
+    "tol": 1e-05
+  },
+  "location_mode": "city_plus_zip",
+  "area_mode": "composition",
+  "min_location_frequency": 20,
+  "spline_knots": 5,
+  "challengers": [
+    "ridge_log_both_9",
+    "ridge_log_both_full12",
+    "hist_gradient_boosting_log_9"
+  ]
+}
