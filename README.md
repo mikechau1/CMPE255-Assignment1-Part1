@@ -2,7 +2,7 @@
 
 Medium article: https://medium.com/@m.chau2021/predicting-house-prices-with-machine-learning-what-i-learned-from-the-process-6cbc4ad3dde5?sharedUserId=m.chau2021
 
-Video: 
+Video: https://youtu.be/sGk_zdBi5I4
 
 ## Project overview
 
